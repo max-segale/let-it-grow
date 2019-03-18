@@ -1,0 +1,1 @@
+<?php $dataArray=array(array("member_id"=>"CF5383C0-C247-4BB8-B4E0-9D0869A6C225","season"=>"2014","name"=>"max segale","address"=>"10 cherry st","phone"=>"908 752 0639","email"=>"maxsegale@gmail.com","share_type"=>"half:400","eggs"=>"40","special_request"=>"spinich","pick_up"=>"friday","pay_type"=>"online","agreement_terms"=>"yes","joined"=>"2014-03-11")); ?>

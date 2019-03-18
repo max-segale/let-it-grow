@@ -1,0 +1,263 @@
+body{
+	margin:0;
+	padding:0;
+	font-size:12pt;
+	font-family:Verdana,Helvetica,sans-serif;
+	color:#333333;
+	background-color:#eeeeee;
+	-webkit-text-size-adjust:100%;
+}
+h1{
+	font-size:24pt;
+	line-height:24pt;
+	margin:15px 0;
+	font-weight:500;
+}
+img{
+	display:block;
+}
+p{
+	font-size:12pt;
+	line-height:18pt;
+	margin:20px 0;
+}
+form{
+	margin:0;
+}
+table{
+	border:0;
+	border-spacing:0;
+}
+td{
+	padding:0;
+	vertical-align:top;
+}
+textarea{
+	min-height:50px;
+	display:block;
+	margin:0;
+	width:100%;
+	padding:0;
+	border:0;
+	resize:vertical;
+	background-color:#ffffff;
+}
+hr{
+	margin:0;
+	border:0;
+	clear:both;
+}
+input[type="checkbox"]{
+	margin:0 10px 5px 0;
+}
+input[type="radio"]{
+	margin:0 10px 5px 0;
+}
+a{
+	text-decoration:none;
+	color:#333333;
+}
+a:hover{
+	text-decoration:underline;
+}
+#all{
+	min-width:1000px;
+}
+#main{
+	background-color:#eeeeee;
+	padding:0 0 40px 0;
+}
+#payment_btn{
+	padding:15px 30px;
+	margin:20px auto;
+	display:block;
+	border:0;
+	cursor:pointer;
+	font-size:20px;
+	line-height:20px;
+	border-radius:10px;
+	background-color:#8ea932;
+	color:#ffffff;
+	-webkit-transition:background-color .5s;
+	-moz-transition:background-color .5s;
+	-o-transition:background-color .5s;
+	transition:background-color .5s;
+}
+#payment_btn:hover{
+	background-color:#849b1a;
+}
+#payment_btn:active{
+	background-color:#667a0a;
+}
+#top_box{
+	background-image:url(img/lig_pana.jpg);
+	background-position:center top;
+	background-size:100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:10px 0 0 0;
+}
+#header{
+	width:1000px;
+	margin:0 auto;
+}
+#logo{
+	width:225px;
+	margin:0 auto;
+}
+#top_area{
+	height:125px;
+}
+#container{
+	width:800px;
+	margin:0 auto;
+}
+#nav{
+	height:70px;
+	background-color:#ffffff;
+	background-color:rgba(255,255,255,.7);
+	margin-left:125px;
+	border-radius:0 10px 0 0;
+}
+#nav_list{
+	display:block;
+	float:right;
+	margin:0;
+	padding:10px 0 0 0;
+}
+#nav_list li{
+	display:block;
+	float:left;
+	padding:15px 30px;
+	margin:0 10px 0 0;
+	background-color:#8ea932;
+	font-size:20px;
+	line-height:20px;
+	cursor:pointer;
+	border-radius:5px;
+	-webkit-transition:background-color .5s;
+	-moz-transition:background-color .5s;
+	-o-transition:background-color .5s;
+	transition:background-color .5s;
+}
+#nav_list a li{
+	color:#ffffff;
+}
+#nav_list li:hover{
+	background-color:#849b1a;
+}
+#page{
+	background-color:#ffffff;
+	padding:40px;
+}
+.csa_table {
+	width:100%;
+	background-color:#cccccc;
+	border-spacing:1px;
+}
+.csa_table td {
+	padding:10px 20px;
+	background-color:#ffffff;
+	width:50%;
+}
+.contact_info{
+	margin:0;
+	padding:10px 0 10px 4%;
+	border:0;
+	background-color:#ffffff;
+	width:96%;
+	font-size:12pt;
+}
+#contact_table{
+	width:100%;
+	background-color:#cccccc;
+	border-spacing:1px;
+}
+#contact_table td{
+	background-color:#ffffff;
+}
+.contact_name_cell{
+	padding:10px 20px;
+}
+.title_block{
+	background-color:#333333;
+	color:#ffffff;
+	padding:10px;
+}
+.bl{
+	border-top:1px solid #333333;
+	border-bottom:1px solid #333333;
+	clear:none;
+	margin:5px 0 0 0;
+}
+#agree_box{
+	border:1px solid #eeeeee;
+	padding:10px;
+	margin:10px 0 0 0;
+}
+.option_box{
+	margin:20px 0;
+}
+
+#agreement_terms{
+	margin:20px;
+}
+#total_cell{
+	color:#cccccc;
+}
+
+#sign_up_btn{
+	margin:20px 0 0 0;
+	padding:20px 60px;
+	border:0;
+	font-size:18pt;
+	line-height:18pt;
+	border-radius:10px;
+	background-color:#8EA932;
+	color:#ffffff;
+	cursor:pointer;
+	-webkit-transition:background-color .5s;
+	-moz-transition:background-color .5s;
+	-o-transition:background-color .5s;
+	transition:background-color .5s;
+}
+#sign_up_btn:hover{
+	background-color:#849b1a;
+}
+#sign_up_btn:active{
+	background-color:#667a0a;
+}
+#page_pad{
+	background-color:#ffffff;
+	padding:40px;
+}
+#fb_panel{
+	float:right;
+	margin:0 0 0 40px;
+	border-left:10px solid #eeeeee;
+	background-color:#ffffff;
+}
+#fb_title{
+	background-color:#333333;
+	color:#ffffff;
+	padding:6px 10px;
+}
+.b_box{
+	border:1px solid #cccccc;
+}
+.rl_txt{
+	float:right;
+	width:275px;
+	padding:5px 0 0 0;
+}
+#pay_opt_table{
+	width:100%;
+	border-spacing:1px;
+	background-color:#cccccc;
+	margin:10px 0 0 0;
+}
+#pay_opt_table td{
+	padding:20px;
+	background-color:#ffffff;
+	width:50%;
+}

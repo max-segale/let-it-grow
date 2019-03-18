@@ -1,0 +1,1 @@
+<?php $dataArray=array(array("season"=>"2014","name"=>"max segale","address"=>"10 cherry st chester nj","phone"=>"908 752 0639","email"=>"maxsegale@gmail.com","share_type"=>"full work:575","eggs"=>"40","special_request"=>"more spinach","pick_up"=>"tuesday","pay_type"=>"online","agreement_terms"=>"yes")); ?>
